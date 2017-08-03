@@ -1,0 +1,6 @@
+F:\VS用户文件夹\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\VS用户文件夹\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\VS用户文件夹\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\VS用户文件夹\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\VS用户文件夹\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\VS用户文件夹\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
